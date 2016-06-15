@@ -1,8 +1,8 @@
-# AndroidLibs == 特效 Effect
+# 安卓分享 == 特效 Effect
 
 包含：各种特效……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

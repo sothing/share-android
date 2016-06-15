@@ -1,8 +1,8 @@
-# AndroidLibs == 网络请求 Network
+# 安卓分享 == 网络请求 Network
 
 包含各种网络请求框架、工具类
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

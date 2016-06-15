@@ -1,10 +1,10 @@
-# AndroidLibs == 动画 Animation
+# 安卓分享 == 动画 Animation
 
 包含：各种动画效果Animation、Animator……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **wava**: https://github.com/hujiaweibujidao/wava
 

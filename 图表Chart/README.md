@@ -1,8 +1,8 @@
-# AndroidLibs == 图表 Chart
+# 安卓分享 == 图表 Chart
 
 包含：各种图表开源库
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

@@ -1,10 +1,10 @@
-# AndroidLibs == 列表 List
+# 安卓分享 == 列表 List
 
 包含：ListView、GridView、RecyclerView、Refresh、LoadMore……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **FlexibleAdapter**: https://github.com/davideas/FlexibleAdapter
 

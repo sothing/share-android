@@ -1,10 +1,10 @@
-# AndroidLibs == 弹框 Dialog
+# 安卓分享 == 弹框 Dialog
 
 包含：各种Dialog、PopupWindow……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **SelectionDialogs**: https://github.com/coreORB/SelectionDialogs
 

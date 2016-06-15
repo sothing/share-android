@@ -1,10 +1,10 @@
-# AndroidLibs == 开发框架 Framework
+# 安卓分享 == 开发框架 Framework
 
 包含：各种快速开发框架、测试框架、系统框架、设计模式框架……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **RNCryptorNative**：https://github.com/TGIO/RNCryptorNative
 

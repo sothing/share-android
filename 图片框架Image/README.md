@@ -1,8 +1,8 @@
-# AndroidLibs == 图片 Image
+# 安卓分享 == 图片 Image
 
 包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

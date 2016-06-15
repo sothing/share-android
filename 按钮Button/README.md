@@ -1,9 +1,10 @@
-# AndroidLibs == 按钮 Button
+# 安卓分享 == 按钮 Button
 
 包含： Button、FloatingActionButton……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[==返回首页==](https://github.com/sothing/share-android)
 
+ http://www.sothing.top
 ---
 
 **DayNightToggleButton**: https://github.com/SilenceDut/DayNightToggleButton

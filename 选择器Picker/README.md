@@ -1,8 +1,8 @@
-# AndroidLibs == 选择器 Picker
+# 安卓分享 == 选择器 Picker
 
 包含：时间、地址、颜色选择 ……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

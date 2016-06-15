@@ -1,8 +1,8 @@
-# AndroidLibs == 图标 Icon
+# 安卓分享 == 图标 Icon
 
 包含：各种图标资源库
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 

@@ -1,9 +1,9 @@
-# AndroidLibs == 布局 Layout
+# 安卓分享 == 布局 Layout
 包括：侧滑菜单、tab栏、ViewPager、Indicator、自定义Layout等……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **QingtingBannerView**: https://github.com/JeasonWong/QingtingBannerView
 

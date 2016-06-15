@@ -1,10 +1,10 @@
-# AndroidLibs == 菜单
+# 安卓分享 == 菜单
 
 包含：各种菜单Menu、列表菜单List、自定义菜单……
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
----
+http://www.sothing.top
 
 **BoomMenu**: https://github.com/Nightonke/BoomMenu
 

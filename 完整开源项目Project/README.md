@@ -1,8 +1,8 @@
-# AndroidLibs == 完整开源项目
+# 安卓分享 == 完整开源项目
 
 包含一些完整的开源项目
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/sothing/share-android)
 
 ---
 
